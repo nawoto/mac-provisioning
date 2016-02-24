@@ -43,6 +43,7 @@
       - { name: google-chrome }
       - { name: bettertouchtool }
       - { name: amethyst }
+      - { name: cheatsheet }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
